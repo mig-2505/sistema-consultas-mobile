@@ -1,7 +1,7 @@
 #   Projeto Typescript
 ## Sobre o Projeto
 Fizemos o projeto como o objetivo de desenvolver, utilizando exclusivamente TypeScript puro (.ts), a modelagem e as regras de negócio de um sistema de marcação de consultas médicas
- integrar a modelagem TypeScript do sistema ao aplicativo mobile, organizando melhor os tipos e utilizar essa modelagem dentro do React Native
+ 
 ## Como Executar o Projeto 
 1. Clone este repositório:
    ```
