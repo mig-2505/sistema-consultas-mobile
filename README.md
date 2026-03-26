@@ -13,3 +13,4 @@ Fizemos o projeto como o objetivo de desenvolver, utilizando exclusivamente Type
 ## Contribuição
 Miguel Vanucci Delgado RM:563491
 João Vitor Lima Caldeira RM: 566541
+Igor Zuvela Villaça Felicio RM:563602
